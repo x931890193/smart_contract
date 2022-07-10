@@ -10,7 +10,7 @@ contract HelloWeb3 is Ownable {
     // 变量类型
     // 1. 数值类型
     // 2. 引用类型  ｜ 数组 结构体
-    // 3. 映射类型 mapping < >
+    // 3. 映射类型  mapping (uint => address) public zombieToOwner;
     // 4. 函数类型
     // 5. 其他不常用类型
 
